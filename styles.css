@@ -14,6 +14,10 @@ font-family: 'Kumbh Sans', sans-serif;
     display: none;
     position: absolute;
     overflow: auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
   }
   
   .dropdown:hover .dropdown-options {
@@ -29,6 +33,10 @@ font-family: 'Kumbh Sans', sans-serif;
     display: none;
     position: absolute;
     overflow: auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
   }
   
   .dropdown2:hover .dropdown2-options {

@@ -1,0 +1,84 @@
+body {
+    font-family: 'Epilogue', sans-serif;
+font-family: 'Kumbh Sans', sans-serif;
+
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+    padding-left: 50px;
+  }
+
+  .dropdown-options {
+    display: none;
+    position: absolute;
+    overflow: auto;
+  }
+  
+  .dropdown:hover .dropdown-options {
+    display: block;
+  }
+
+  .dropdown2 {
+    display: inline-block;
+    position: relative;
+  }
+
+  .dropdown2-options {
+    display: none;
+    position: absolute;
+    overflow: auto;
+  }
+  
+  .dropdown2:hover .dropdown2-options {
+    display: block;
+  }
+
+  .menu {
+    padding-top: 25px; 
+    padding-left: 100px;
+  }
+
+  .menu2 {
+    display: inline-block;
+    position: relative;
+    
+  }
+  .title {
+    font-size: 50px;
+  }
+
+  p {
+    color: gray;
+    font-weight: bolder;
+    font-size: 18px;
+  }
+
+  .mnarrative {
+    padding-left: 250px;
+  }
+
+  .mimage {
+    float: right;
+    padding-right: 100px;
+  }
+
+  .user {
+    padding-right: 100px;
+    float: right;
+  }
+  
+  button {
+    border-radius: 30px;  
+    border-color: gray;
+    border-style: none;
+    font-weight: bolder;
+    padding: 15px;
+  }
+
+  .client {
+    padding-left: 100px;
+    display: inline-block;
+    margin: 10px;
+  }
